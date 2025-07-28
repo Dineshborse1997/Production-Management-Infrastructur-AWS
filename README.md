@@ -26,7 +26,7 @@ This project demonstrates the design and deployment of a **fault-tolerant, scala
 - **Auto Scaling Groups** manage EC2 instances based on demand, ensuring cost-efficiency and performance.
 
 ## 📷  Architecture Diagram
-![Image Alt](https://github.com/Dineshborse1997/Production-Management-Infrastructur-AWS/blob/main/Screenshot/Ar.jpeg?raw=true)
+![Image Alt](https://github.com/Dineshborse1997/Production-Management-Infrastructur-AWS/blob/7f56934e463f86421cc06d97ce44adaeb186fe2a/Screenshot/pp%20arch.png)
 
 ---
 
@@ -60,9 +60,7 @@ This project demonstrates the design and deployment of a **fault-tolerant, scala
 
 ## 📷 Screenshots
 
-![Image Alt](https://github.com/Dineshborse1997/Production-Management-Infrastructur-AWS/blob/main/Screenshot/T1.jpeg?raw=true)
-
-![Image Alt](https://github.com/Dineshborse1997/Production-Management-Infrastructur-AWS/blob/main/Screenshot/T2.jpeg?raw=true)
+![Image Alt](https://github.com/Dineshborse1997/Production-Management-Infrastructur-AWS/blob/e7b2a90d84353141945318a4f5f5c540772db139/Screenshot/Screenshot%202025-07-28%20174836.png)
 
 
 
